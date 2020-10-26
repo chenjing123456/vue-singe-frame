@@ -1,7 +1,9 @@
 ## 简介
 
+近来公司需要进行标准化项目开发，把亩均项目中常见的系统设置，企业档案等相同模块的开发整合到一起做成标准版。
 项目以[vue-element-admin](http://panjiachen.github.io/vue-element-admin) 为基础开发的微服务开发平台的管理系统。
 在vue-element-admin项目的基础上添加公共方式，公共样式以及登录权限的路由配置。
+
 
 
 ## 前序准备
