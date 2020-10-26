@@ -108,6 +108,7 @@ npm run lint -- --fix
 ```
 
 [文档：vue单页面动态路由权限配置](https://chensanr.gitee.io/2020/03/23/vueSingleRoutePage/)
+
 [开发文档](https://gitee.com/Chensanr/daily-code/blob/master/js-basis/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83%E6%96%87%E6%A1%A3.docx)
 
 
