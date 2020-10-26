@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.1 (81669) - https://sketch.com -->
+    <title>运营端登录</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FCFCFC" offset="0%"></stop>
+            <stop stop-color="#F2F5F8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="80.8977874%" y1="18.4663389%" x2="3.25855711%" y2="66.2963313%" id="linearGradient-2">
+            <stop stop-color="#E4F0FA" offset="0%"></stop>
+            <stop stop-color="#F6F8FA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="21.1007883%" x2="50%" y2="88.5064752%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E0EDF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="89.1395621%" y1="22.1221301%" x2="0%" y2="43.5746173%" id="linearGradient-4">
+            <stop stop-color="#E0EDF9" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.3537736%" y1="11.9693396%" x2="33.9150943%" y2="86.6037736%" id="linearGradient-5">
+            <stop stop-color="#E0EDF9" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="运营端登录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#F7F8F9" x="0" y="0" width="1920" height="1080"></rect>
+        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="1920" height="1080"></rect>
+        <circle id="椭圆形" fill="url(#linearGradient-2)" cx="1666.5" cy="264.5" r="385.5"></circle>
+        <circle id="椭圆形备份" fill="url(#linearGradient-3)" cx="706" cy="379" r="111"></circle>
+        <circle id="椭圆形备份-2" fill="url(#linearGradient-4)" cx="648" cy="1117" r="294"></circle>
+        <circle id="椭圆形" fill="url(#linearGradient-5)" cx="1567" cy="372" r="178"></circle>
+        <path d="M1406.5,721 C1495.1417,721 1567,648.917845 1567,560 C1567,471.082155 1495.1417,399 1406.5,399 C1317.8583,399 1246,471.082155 1246,560 C1246,648.917845 1317.8583,721 1406.5,721 Z" id="椭圆形备份-3" stroke="#D0DFEB" stroke-width="2" stroke-dasharray="8"></path>
+        <g id="编组-6" transform="translate(1794.000000, 442.000000)" stroke="#D0DFEB" stroke-linecap="square" stroke-width="2">
+            <path d="M0.5,0 L0.5,467" id="直线-4"></path>
+        </g>
+        <g id="编组-6备份" transform="translate(146.000000, 465.500000) scale(1, -1) translate(-146.000000, -465.500000) translate(127.000000, 213.000000)" stroke="#D0DFEB" stroke-width="2">
+            <path d="M19.5,38 L19.5,505" id="直线-4" stroke-linecap="square"></path>
+            <polygon id="三角形" points="19 0 38 38 0 38"></polygon>
+        </g>
+        <polygon id="三角形" stroke="#D0DFEB" stroke-width="2" transform="translate(146.000000, 448.000000) rotate(-270.000000) translate(-146.000000, -448.000000) " points="147.876471 257 385.876471 639 -93.8764706 639"></polygon>
+        <circle id="椭圆形" stroke="#D0DFEB" stroke-width="2" cx="1795" cy="956" r="12"></circle>
+        <circle id="椭圆形备份-6" stroke="#D0DFEB" stroke-width="2" cx="146" cy="76" r="12"></circle>
+        <circle id="椭圆形备份-4" stroke="#D0DFEB" stroke-width="2" cx="1795" cy="993" r="12"></circle>
+        <circle id="椭圆形备份-7" stroke="#D0DFEB" stroke-width="2" cx="146" cy="113" r="12"></circle>
+        <circle id="椭圆形备份-5" stroke="#D0DFEB" stroke-width="2" cx="1795" cy="1030" r="12"></circle>
+        <circle id="椭圆形备份-8" stroke="#D0DFEB" stroke-width="2" cx="146" cy="150" r="12"></circle>
+    </g>
+</svg>
